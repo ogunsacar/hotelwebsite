@@ -1,2 +1,2 @@
 # hotelwebsite
-Hotel Website HTML&amp;CSS
+Hotel Website HTML&amp;CSS [Brad Traversy]
